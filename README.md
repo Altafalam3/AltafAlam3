@@ -1,4 +1,4 @@
-[![@AltafAlam3's Holopin board](https://holopin.me/altafalam3)](https://holopin.io/@altafalam3)
+
 
 ### Hi there 👋  This is **Altaf Alam** 🚀
 - 🌱 I’m currently learning Web Development
@@ -6,7 +6,7 @@
 
 
 <!--
-
+[![@AltafAlam3's Holopin board](https://holopin.me/altafalam3)](https://holopin.io/@altafalam3)
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 
