@@ -1,11 +1,11 @@
-
-
 #### Hi there 👋  This is **Altaf Alam** 🚀
 - 🌱 I’m currently learning Web Development and C++,Java,Python
 - 🤔 I’m looking for help with CP and Backend Web Development
 
+<p align="center">
+  <img src="https://github.com/AltafAlam3/AltafAlam3/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
