@@ -1,7 +1,7 @@
 
 
 #### Hi there 👋  This is **Altaf Alam** 🚀
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and C++,Java,Python
 - 🤔 I’m looking for help with CP and Backend Web Development
 
 
