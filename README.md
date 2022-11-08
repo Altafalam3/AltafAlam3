@@ -2,9 +2,8 @@
 - 🌱 I’m currently learning Web Development and C++,Java,Python
 - 🤔 I’m looking for help with CP and Backend Web Development
 
-<p align="center">
-  <img src="https://github.com/AltafAlam3/AltafAlam3/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+![snake gif](https://github.com/AltafAlam3/AltafAlam3/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="center"> 
