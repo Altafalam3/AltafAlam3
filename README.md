@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Altaf Alam 🚀</h1>
-<h3 align="center">A Frontend developer, Python Developer</h3>
+<h3 align="center">A FullStack Web developer, Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altafalam3&label=Profile%20views&color=0e75b6&style=flat" alt="altafalam3" /> </p>
 
 <p align="left"> <a href="https://twitter.com/altaf0032" target="blank"><img src="https://img.shields.io/twitter/follow/altaf0032?logo=twitter&style=for-the-badge" alt="altaf0032" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and C++,Java, Python**
+- 🌱 I’m currently learning **React + Django & DSA with cpp**
 
-- 🤝 I’m looking for help with **CP and Backend Web Development**
+- 🤝 I’m looking for help with **Backend Web Development and CP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
