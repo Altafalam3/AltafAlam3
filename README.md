@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/altaf0032" target="blank"><img src="https://img.shields.io/twitter/follow/altaf0032?logo=twitter&style=for-the-badge" alt="altaf0032" /></a> </p>
 
-- 🌱 I’m currently learning **React + Django, Ai Ml & DSA with cpp**
+- 🌱 I’m currently learning **React + Django, AI ML & DSA with cpp**
 
 - 🤝 I’m looking for help with **Backend Web Development and CP**
 
